@@ -4,36 +4,37 @@ permalink: /services/
 ---
 
 ## Services
-
 In the area where the firm is able to perform the task to be assigned
 
 ###In Government level
-Ministry of Primary & Mass Education
-Ministry of Education
-Ministry of Local Government & Rural Development
-Ministry of Environment, Forest and Climate Change
-Ministry of Fisheries & Livestock
-Ministry of Agriculture
-Ministry of Health & Family Welfare
-Ministry of Social Welfare
-Ministry of Women & Children Affaires
-Ministry of Water Resources
+<ul>
+<li>Ministry of Primary & Mass Education</li>
+<li>Ministry of Education</li>
+<li>Ministry of Local Government & Rural Development</li>
+<li>Ministry of Environment, Forest and Climate Change</li>
+<li>Ministry of Fisheries & Livestock</li>
+<li>Ministry of Agriculture</li>
+<li>Ministry of Health & Family Welfare</li>
+<li>Ministry of Social Welfare</li>
+<li>Ministry of Women & Children Affairs</li>
+<li>Ministry of Water Resources</li>
+</ul>
 
 ### International Development Partners
-The World Bank
-ADB
-UNICEF
-WHO
-UNDP
-WFP
-DFID
-FAO
-UNFPA
-OXFAM
-CIDA
-SDC
-CARE
-GIZ
+<li>The World Bank</li>
+<li>ADB</li>
+<li>UNICEF</li>
+<li>WHO</li>
+<li>UNDP</li>
+<li>WFP</li>
+<li>DFID</li>
+<li>FAO</li>
+<li>UNFPA</li>
+<li>OXFAM</li>
+<li>CIDA</li>
+<li>SDC</li>
+<li>CARE</li>
+<li>GIZ</li>
 
 
 <b>Vision</b>: Innovation, Integration and enhancement of capacity through maximum use of limited resources for the betterment of the nation. The firm to be the integral part in the development process of the land.
