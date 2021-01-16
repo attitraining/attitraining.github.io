@@ -3,10 +3,10 @@ layout: default
 permalink: /services/
 ---
 
-## Services
+## Services and Partners
 In the area where the firm is able to perform the task to be assigned
 
-###In Government level
+#### In Government Level
 <ul>
 <li>Ministry of Primary & Mass Education</li>
 <li>Ministry of Education</li>
@@ -20,7 +20,8 @@ In the area where the firm is able to perform the task to be assigned
 <li>Ministry of Water Resources</li>
 </ul>
 
-### International Development Partners
+#### International Development Partners
+<ul>
 <li>The World Bank</li>
 <li>ADB</li>
 <li>UNICEF</li>
@@ -35,10 +36,14 @@ In the area where the firm is able to perform the task to be assigned
 <li>SDC</li>
 <li>CARE</li>
 <li>GIZ</li>
+</ul>
 
-
-<b>Vision</b>: Innovation, Integration and enhancement of capacity through maximum use of limited resources for the betterment of the nation. The firm to be the integral part in the development process of the land.
 <br>
-<b>Mission</b>: Our mission is to build capacity through training, research and education, assist in equal distribution of resources in society, cleanliness of environment, assist in wildlife conservation and management, assist in building healthy nation.
+#### Vision 
+Innovation, Integration and enhancement of capacity through maximum use of limited resources for the betterment of the nation. The firm to be the integral part in the development process of the land.
 <br>
-<b>Values</b>: Efficiency, Innovation, Effectiveness, Integrity
+#### Mission 
+Our mission is to build capacity through training, research and education, assist in equal distribution of resources in society, cleanliness of environment, assist in wildlife conservation and management, assist in building healthy nation.
+<br>
+#### Values 
+Efficiency, Innovation, Effectiveness, Integrity
